@@ -19,7 +19,7 @@ import com.produtos.apirest.repository.ProdutoRepository;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
-//http://localhost:8080/swagger-ui/ ---
+//http://localhost:8080/swagger-ui/
 
 @RestControllerAdvice
 @RequestMapping(value="/api")
